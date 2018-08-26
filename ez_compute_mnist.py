@@ -1,7 +1,7 @@
 # simple tensorflow tutorial with MNIST dataset
 
 import tensorflow as tf
-
+ 
 #tf.__version__()
 
 mnist = tf.keras.datasets.mnist 
